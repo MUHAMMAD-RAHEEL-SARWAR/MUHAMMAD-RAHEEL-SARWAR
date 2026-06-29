@@ -1,69 +1,92 @@
-# 💫 About Me:
-# MUHAMMAD RAHEEL SARWAR
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadraheelsarwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raheel.sarwarg@gmail.com ) 
+<div align="center">
 
+  <a href="https://github.com/MUHAMMAD-RAHEEL-SARWAR">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=000080&background=1A365D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+MUHAMMAD+RAHEEL+SARWAR%3BGraduate+Researcher+%26+Computational+Scientist%3BWhere+Molecular+Biology+Meets+Computational+Science%3BArchitecting+Machine+Learning+Genomics+Pipelines" alt="Typing Greeting" />
+  </a>
 
-Hi there 👋 I'm **Muhammad Raheel Sarwar!**
-I'm a passionate student of *Microbiology and Molecular Genetics* from Pakistan, dedicated to pioneering the intersection of biology 🧬 and technology 💻. My aim is to use advanced **Machine Learning and Deep Learning** techniques to train models for **Genomic Data science**, ultimately replacing outdated bioinformatics tools.
+  <br/>
+  <br/>
+  
+  <img src="https://www.genengnews.com/wp-content/uploads/2020/05/Sep1_GettyImages_1140559402_DigitalDNAConcept.jpg" alt="A glowing, highly detailed 3D render of a stylized DNA double helix embedded with intricate digital binary code and circuit patterns, set against a deep black background with intense electric blue and magenta bioluminescent light trails. This visualization represents the fusion of genomics and advanced computing." style="border-radius: 8px; width: 100%; max-height: 300px; object-fit: cover;" />
 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUHAMMAD-RAHEEL-SARWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MUHAMMAD-RAHEEL-SARWAR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-RAHEEL-SARWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-🔬💻 **My Expertise** 
-I bring a unique combination of hands-on laboratory and computational experience to the table:
-
-🔬 **Laboratory Techniques:**
-
-PCR, Agarose Gel Electrophoresis, Plasmid DNA Isolation
-
-
-💻**Bioinformatics & Computational Skills:**
-
-**Sequencing & Analysis:** Whole Genome Sequencing (WGS), Next-Generation Sequencing (NGS), De Novo Assembly, Phylogenetic Analysis.
-
-**Typing:** Serotyping, MLST Typing, Plasmid Typing.
-
-**Tools:** Proficient with Autodock Vina, MyDBFinder, ResFinder, K-merFinder, etc.
-
-
-**Programming & Data Science:**
-
-**Languages:** Python, HTML, with a strong focus on learning R for Genomic Data Science.
-
-**Techniques:** Actively learning Machine Learning and Deep Learning to build more accurate predictive models.
-
-🌱 **Collaboration & Interests**
-Looking to collaborate on: Training ML/DL models for AMR (Antimicrobial Resistance) Prediction, Protein Gene Function Prediction, and Molecular Docking Prediction.
-
-**My passions:** Genomic Data Science, Human & Microbial Genetics, Machine Learning, and Deep Learning.
-
-Ask me about: Any of my skills or how we can use AI to innovate in the field of genetics.
-
-
-Connect with Me 💬
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadraheelsarwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raheel.sarwarg@gmail.com ) 
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MUHAMMAD-RAHEEL-SARWAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MUHAMMAD-RAHEEL-SARWAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧬 Executive Profile
 
+I am a **Neurogenetics Researcher & Computational Scientist** specializing in the intersection of high-throughput molecular genetics and advanced computational modeling. My work focuses on translating complex multi-omics data into actionable biological insights, ensuring rigorous data integrity, and engineering robust bioinformatics pipelines.
 
+* **Core Domains:** Molecular Genetics | Neurogenetics | Drug Discovery | Machine Learning in Genomics | Bioinformatics Pipelines
+* **Mission:** To accelerate biomarker and drug discovery and precision medicine through scalable, reproducible, and mathematically rigorous computational frameworks.
+
+---
+
+## 🔬 Current Focus & Research
+
+### **Primary Research Initiative**
+**An Ensemble Machine Learning Framework for Blood-Based DNA Methylation Biomarker Discovery in Autism Spectrum Disorder (ASD)**
+
+* **Pipeline Development:** Architecting an end-to-end DNA methylation analysis pipeline, heavily optimized across **R** and **Python** environments.
+* **Data Engineering & Integrity:** Executing high-fidelity sample alignment, strict outlier extraction, and algorithmic batch-effect normalization utilizing **Noob** and **ComBat** methodologies.
+* **Predictive Modeling:** Designing and validating robust classification frameworks leveraging **Support Vector Machines (SVM)** and **CatBoost** architectures to identify highly predictive epigenetic signatures.
+
+---
+
+## 💻 Technical Architecture
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=00FFFF)
+![R](https://img.shields.io/badge/R-121212?style=flat-square&logo=r&logoColor=FF00FF)
+![Bash](https://img.shields.io/badge/Bash-121212?style=flat-square&logo=gnu-bash&logoColor=00FFFF)
+![Markdown](https://img.shields.io/badge/Markdown-121212?style=flat-square&logo=markdown&logoColor=FF00FF)
+
+### **Libraries & Frameworks**
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-121212?style=flat-square&logo=scikit-learn&logoColor=00FFFF)
+![CatBoost](https://img.shields.io/badge/CatBoost-121212?style=flat-square&logo=git&logoColor=FF00FF)
+![Bioconductor](https://img.shields.io/badge/Bioconductor-121212?style=flat-square&logo=r&logoColor=00FFFF)
+![Pandas](https://img.shields.io/badge/Pandas-121212?style=flat-square&logo=pandas&logoColor=FF00FF)
+![NumPy](https://img.shields.io/badge/NumPy-121212?style=flat-square&logo=numpy&logoColor=00FFFF)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=FF00FF)
+![GitHub](https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=00FFFF)
+![Linux](https://img.shields.io/badge/Linux-121212?style=flat-square&logo=linux&logoColor=FF00FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-121212?style=flat-square&logo=jupyter&logoColor=00FFFF)
+![RStudio](https://img.shields.io/badge/RStudio-121212?style=flat-square&logo=rstudio&logoColor=FF00FF)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-RAHEEL-SARWAR&show_icons=true&theme=transparent&hide_border=true&title_color=000080&text_color=E0E0E0&icon_color=00FFFF&bg_color=121212" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-RAHEEL-SARWAR&layout=compact&theme=transparent&hide_border=true&title_color=000080&text_color=E0E0E0&bg_color=121212" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+## 🌍 Leadership, Impact & Community Outreach
+
+Beyond the computational cluster, I am deeply committed to scientific communication, ethical leadership, and global health education.
+
+* **CEO & Founder, The Reformers Youth Hub** Guided and mentored multiple students through complex international application pipelines, successfully securing fully funded scholarships for multipe students currently pursuing their MS/PhD programs abroad.
+* **General Secretary, Character Building Society (CBS):** Led organizational strategy, fostering ethical development and academic integrity among peers.
+* **Executive Board Member, IMMG Alumni Association:** Driving alumni engagement, mentorship programs, and institutional networking initiatives.
+* **Research Lead & Public Speaker:** Actively coordinating student research workflows, mentoring junior scientists, and presenting complex genomic findings to diverse academic audiences.
+
+---
+
+## 📬 Connect With Me
+
+<div align="left">
+  <a href="[[linkedin.com/in/muhammadraheelsarwar](https://pk.linkedin.com/in/muhammadraheelsarwar)]">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=000080" alt="LinkedIn" />
+  </a>
+  <a href="mailto:[Insert Email Address]">
+    <img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=1A365D" alt="Email" />
+  </a>
+  <a href="[Insert Academic Profile URL / Optional]">
+    <img src="https://img.shields.io/badge/ORCID%20/%20ResearchGate-121212?style=flat-square&logo=orcid&logoColor=000080" alt="Academic Profile" />
+  </a>
+</div>
