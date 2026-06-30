@@ -9,8 +9,7 @@
   <br/>
   <br/>
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YRzQnWzbn4WIxd3ZYx/giphy.gif" alt="Computational Matrix Grid Loop" style="border-radius: 8px; width: 70.5%; max-height: 250px; object-fit: cover;" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s1IJ0L8hZ4wms/giphy.gif" alt="Molecular Structure Processing Loop" style="border-radius: 80px; width: 100%; max-height: 250px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YRzQnWzbn4WIxd3ZYx/giphy.gif" alt="Computational Matrix Grid Loop" style="border-radius: 8px; width: 70.5%; max-height: 250px; object-fit: cover;" /> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s1IJ0L8hZ4wms/giphy.gif" alt="Molecular Structure Processing Loop" style="border-radius: 80px; width: 100%; max-height: 250px; object-fit: cover;" />
 
 </div>
 
