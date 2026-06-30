@@ -1,15 +1,19 @@
+
 <div align="center">
 
+  <!-- Minimalist Typing Greeting with Navy Blue Gradient Theme -->
   <a href="https://github.com/MUHAMMAD-RAHEEL-SARWAR">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=000080&background=1A365D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+MUHAMMAD+RAHEEL+SARWAR%3BGraduate+Researcher+%26+Computational+Scientist%3BWhere+Molecular+Biology+Meets+Computational+Science%3BArchitecting+Machine+Learning+Genomics+Pipelines" alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=000080&background=1A365D00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+MUHAMMAD+RAHEEL+SARWAR%3BNeurogenetics+Researcher+%26+Computational+Scientist%3BWhere+Biomarker+%26+Drug+Discovery+Meets+Machine+Learning%3BArchitecting+Machine+Learning+Genomics+Pipelines" alt="Typing Greeting" />
   </a>
 
   <br/>
   <br/>
   
-  <img src="https://www.genengnews.com/wp-content/uploads/2020/05/Sep1_GettyImages_1140559402_DigitalDNAConcept.jpg" alt="A glowing, highly detailed 3D render of a stylized DNA double helix embedded with intricate digital binary code and circuit patterns, set against a deep black background with intense electric blue and magenta bioluminescent light trails. This visualization represents the fusion of genomics and advanced computing." style="border-radius: 8px; width: 100%; max-height: 300px; object-fit: cover;" />
+  <!-- 3D Animation Asset: DNA Data Stream Pipeline -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd6azBpY2pnM285bTdrd2hwM3c5cjlwY21sOGJjbmViZmI1MmM3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xluSS9Tw1auAP6/giphy.gif" alt="Cinematic 3D loop showing digital streams of information and structural matrices, visualizing computational pipelines." style="border-radius: 8px; width: 100%; max-height: 300px; object-fit: cover;" />
 
 </div>
+
 
 ---
 
@@ -17,7 +21,7 @@
 
 I am a **Neurogenetics Researcher & Computational Scientist** specializing in the intersection of high-throughput molecular genetics and advanced computational modeling. My work focuses on translating complex multi-omics data into actionable biological insights, ensuring rigorous data integrity, and engineering robust bioinformatics pipelines.
 
-* **Core Domains:** Molecular Genetics | Neurogenetics | Drug Discovery | Machine Learning in Genomics | Bioinformatics Pipelines
+* **Core Domains:** Molecular Genetics | Neurogenetics | Biomarker & Drug Discovery | Machine Learning in Genomics | Bioinformatics Pipelines
 * **Mission:** To accelerate biomarker and drug discovery and precision medicine through scalable, reproducible, and mathematically rigorous computational frameworks.
 
 ---
@@ -35,34 +39,51 @@ I am a **Neurogenetics Researcher & Computational Scientist** specializing in th
 
 ## 💻 Technical Architecture
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=00FFFF)
-![R](https://img.shields.io/badge/R-121212?style=flat-square&logo=r&logoColor=FF00FF)
-![Bash](https://img.shields.io/badge/Bash-121212?style=flat-square&logo=gnu-bash&logoColor=00FFFF)
-![Markdown](https://img.shields.io/badge/Markdown-121212?style=flat-square&logo=markdown&logoColor=FF00FF)
+### 📊 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 
-### **Libraries & Frameworks**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-121212?style=flat-square&logo=scikit-learn&logoColor=00FFFF)
-![CatBoost](https://img.shields.io/badge/CatBoost-121212?style=flat-square&logo=git&logoColor=FF00FF)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-121212?style=flat-square&logo=r&logoColor=00FFFF)
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=flat-square&logo=pandas&logoColor=FF00FF)
-![NumPy](https://img.shields.io/badge/NumPy-121212?style=flat-square&logo=numpy&logoColor=00FFFF)
+### 🧬 Bioinformatics & Genomic Preprocessing
+<img src="https://img.shields.io/badge/Bioconductor-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Limma_Package-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Array_Preprocessing-008080?style=for-the-badge&logo=analytics&logoColor=white" />
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=FF00FF)
-![GitHub](https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=00FFFF)
-![Linux](https://img.shields.io/badge/Linux-121212?style=flat-square&logo=linux&logoColor=FF00FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-121212?style=flat-square&logo=jupyter&logoColor=00FFFF)
-![RStudio](https://img.shields.io/badge/RStudio-121212?style=flat-square&logo=rstudio&logoColor=FF00FF)
+### 🤖 Feature Engineering & Machine Learning
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/CatBoost-6E33B7?style=for-the-badge&logo=catboost&logoColor=white" /> <img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge&logo=xgboost&logoColor=white" /> <img src="https://img.shields.io/badge/LightGBM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/AdaBoost-FF6F00?style=for-the-badge&logo=analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Ensemble_Stacking-0052CC?style=for-the-badge&logo=data-interpretation&logoColor=white" />
+
+### 🧮 Data Manipulation & Engineering
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Elastic_Net-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+### 🛠️ Tools, Platforms & Compute Environments
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 
+ 
+ 
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-RAHEEL-SARWAR&show_icons=true&theme=transparent&hide_border=true&title_color=000080&text_color=E0E0E0&icon_color=00FFFF&bg_color=121212" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-RAHEEL-SARWAR&layout=compact&theme=transparent&hide_border=true&title_color=000080&text_color=E0E0E0&bg_color=121212" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=MUHAMMAD-RAHEEL-SARWAR&theme=radical&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMAD-RAHEEL-SARWAR&theme=react-dark&hide_border=true&custom_title=Live+Contribution+Timeline"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+
+
+---
+
+### 👁️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUHAMMAD-RAHEEL-SARWAR&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
