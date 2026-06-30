@@ -9,11 +9,10 @@
   <br/>
   <br/>
   
-  <!-- 3D Animation Asset: DNA Data Stream Pipeline -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTd6azBpY2pnM285bTdrd2hwM3c5cjlwY21sOGJjbmViZmI1MmM3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xluSS9Tw1auAP6/giphy.gif" alt="Cinematic 3D loop showing digital streams of information and structural matrices, visualizing computational pipelines." style="border-radius: 8px; width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YRzQnWzbn4WIxd3ZYx/giphy.gif" alt="Computational Matrix Grid Loop" style="border-radius: 8px; width: 70.5%; max-height: 250px; object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdqMDF5ZmFwZmNpeWVyeXMycWM3emg0eHJrZ3JjanJrZ3duZjc0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s1IJ0L8hZ4wms/giphy.gif" alt="Molecular Structure Processing Loop" style="border-radius: 80px; width: 100%; max-height: 250px; object-fit: cover;" />
 
 </div>
-
 
 ---
 
